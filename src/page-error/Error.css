@@ -1,0 +1,18 @@
+.error {
+    padding: 160px 0;
+    display: flex;
+    flex-basis: fit-content;
+    margin: 0 auto;
+}
+.error--title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #f2890f;
+    margin-bottom: 8px;
+}
+.error--subtitle {
+    font-size: 64px;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 28px;
+}

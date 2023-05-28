@@ -1,0 +1,62 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 80px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 20%, rgba(0, 0, 0, 0) 100%);
+}
+.header--logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #1F1E25;
+    font-weight: bold;
+    font-size: 20px;
+}
+.header--logo-img {
+    margin-right: 12px;
+    width: 42px;
+    height: 42px;
+}
+.logo-image {
+    fill: #A6A6A6;
+    transition: .2s;
+}
+.logo-image:hover {
+    fill: #FEC432;
+    filter: drop-shadow(0 0 7px #FEC43299);
+}
+.header--nav {
+    display: flex;
+}
+.header--nav-btn {
+    padding: 12px 27px;
+    text-decoration: none;
+    color: #A6A6A6;
+    font-size: 14px;
+    font-weight: 600;
+    text-shadow: 0 0 10px #FEC43200;
+    transition: .2s;
+}
+.header--nav-btn.active {
+    color: #FEC432;
+    text-shadow: 0 0 10px #FEC432ff;
+}
+.header--nav-btn:hover {
+    color: #FEC432;
+    text-shadow: 0 0 10px #FEC432ff;
+}
+.header--phone {
+    text-decoration: none;
+    color: #A6A6A6;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-shadow: 0 0 10px #FEC43200;
+    transition: .2s;
+}
+.header--phone:hover {
+    color: #FEC432;
+    text-shadow: 0 0 10px #FEC432ff;
+}

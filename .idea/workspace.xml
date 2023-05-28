@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71656cb6-955f-4ad5-9639-2a11c9be3d68" name="Changes" comment="project">
+      <change afterPath="$PROJECT_DIR$/.idea/5-board-games-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/history.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.cjs.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.umd.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.umd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/router.umd.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/dist/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/history.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/router.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@remix-run/router/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/loose-envify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/replace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/batchingForReactDom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/batchingForReactNative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/batchingOptOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/ObserverComponent.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.cjs.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.cjs.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.cjs.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.cjs.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.esm.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.umd.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.umd.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.umd.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/mobxreactlite.umd.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/observer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/staticRendering.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/useAsObservableSource.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/useLocalObservable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/useLocalStore.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/useObserver.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/UniversalFinalizationRegistry.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/assertEnvironment.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/observerBatching.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/observerFinalizationRegistry.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/printDebugValue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/reactBatchedUpdates.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/reactBatchedUpdates.native.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/dist/utils/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/ObserverComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/ObserverComponent.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/observer.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/staticRendering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/staticRendering.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useAsObservableSource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useAsObservableSource.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useLocalObservable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useLocalObservable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useLocalStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useLocalStore.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/useObserver.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/UniversalFinalizationRegistry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/UniversalFinalizationRegistry.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/assertEnvironment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/assertEnvironment.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/observerBatching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/observerBatching.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/observerFinalizationRegistry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/observerFinalizationRegistry.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/printDebugValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/printDebugValue.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/reactBatchedUpdates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/reactBatchedUpdates.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/reactBatchedUpdates.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/reactBatchedUpdates.native.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/es/utils/utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/ObserverComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/ObserverComponent.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/observer.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/staticRendering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/staticRendering.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useAsObservableSource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useAsObservableSource.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useLocalObservable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useLocalObservable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useLocalStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useLocalStore.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/useObserver.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/UniversalFinalizationRegistry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/UniversalFinalizationRegistry.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/assertEnvironment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/assertEnvironment.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/observerBatching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/observerBatching.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/observerFinalizationRegistry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/observerFinalizationRegistry.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/printDebugValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/printDebugValue.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/reactBatchedUpdates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/reactBatchedUpdates.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/reactBatchedUpdates.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/reactBatchedUpdates.native.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/lib/utils/utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/ObserverComponent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/observer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/staticRendering.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/useAsObservableSource.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/useLocalObservable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/useLocalStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/useObserver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/UniversalFinalizationRegistry.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/assertEnvironment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/observerBatching.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/observerFinalizationRegistry.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/printDebugValue.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/reactBatchedUpdates.native.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/reactBatchedUpdates.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react-lite/src/utils/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/batchingForReactDom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/batchingForReactNative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/batchingOptOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/Provider.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/disposeOnUnmount.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/inject.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.cjs.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.cjs.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.cjs.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.cjs.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.esm.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.umd.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.umd.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.umd.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/mobxreact.umd.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/observer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/observerClass.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/propTypes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/types/IReactComponent.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/types/IStoresToProps.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/types/IValueMap.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/types/IWrappedComponent.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/dist/utils/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/disposeOnUnmount.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/globals.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/inject.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/observer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/observerClass.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/propTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/types/IReactComponent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/types/IStoresToProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/types/IValueMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/types/IWrappedComponent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx-react/src/utils/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/action.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/annotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/autorun.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/become-observed.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/computed.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/configure.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/decorators.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/extendobservable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/extras.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/flow.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/intercept-read.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/intercept.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/iscomputed.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/isobservable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/makeObservable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/object-api.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/observable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/observe.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/tojs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/trace.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/transaction.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/api/when.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/action.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/atom.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/computedvalue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/derivation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/globalstate.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/observable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/reaction.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/core/spy.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/errors.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/internal.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.cjs.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.cjs.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.cjs.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.cjs.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.esm.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.umd.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.umd.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.umd.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/mobx.umd.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/actionannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/autoannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/computedannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/dynamicobject.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/flowannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/intercept-utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/legacyobservablearray.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/listen-utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/modifiers.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observableannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observablearray.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observablemap.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observableobject.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observableset.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/observablevalue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/overrideannotation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/types/type-utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/utils/comparer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/utils/eq.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/utils/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/utils/iterable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/dist/utils/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/annotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/autorun.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/become-observed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/computed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/configure.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/decorators.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/extendobservable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/extras.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/flow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/intercept-read.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/intercept.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/iscomputed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/isobservable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/makeObservable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/object-api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/observable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/observe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/tojs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/trace.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/transaction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/api/when.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/atom.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/computedvalue.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/derivation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/globalstate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/observable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/reaction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/core/spy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/errors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/internal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/mobx.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/actionannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/autoannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/computedannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/dynamicobject.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/flowannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/intercept-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/legacyobservablearray.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/listen-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/modifiers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observableannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observablearray.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observablemap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observableobject.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observableset.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/observablevalue.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/overrideannotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/types/type-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/utils/comparer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/utils/eq.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/utils/global.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/utils/iterable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mobx/src/utils/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/profiling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/server.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/server.node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/dom.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/react-router-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/react-router-dom.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/react-router-dom.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/react-router-dom.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/server.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/server.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/umd/react-router-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/umd/react-router-dom.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/umd/react-router-dom.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/dist/umd/react-router-dom.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/server.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router-dom/server.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/lib/components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/lib/context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/lib/hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/react-router.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/react-router.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/react-router.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/react-router.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/umd/react-router.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/umd/react-router.development.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/umd/react-router.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/dist/umd/react-router.production.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.shared-subset.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.shared-subset.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/jsx-dev-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/jsx-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/react.shared-subset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react/umd/react.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_mock.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_mock.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_post_task.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_post_task.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-unstable_mock.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-unstable_mock.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.profiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/unstable_mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scheduler/unstable_post_task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/games/Game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/games/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/form/Form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/form/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-difficulty-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-difficulty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-duration-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-duration.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-person-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon-youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-contacts/Contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-contacts/Contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-contacts/map-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-error/Error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-error/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-feedback/Feedback.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-feedback/Feedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-home/nav-games/Nav-games.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-home/nav-games/Nav-games.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-newbie/Newbie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-newbie/Newbie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-sale/Sale.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-sale/Sale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/socials/Socials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/socials/Socials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store-background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/stores-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/use-stores-hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PRMGU0g03MEfKgI8Rmm8heZj0I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/Hilel/FrontendPro/5-board-games-app/src&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Hilel\FrontendPro\5-board-games-app\src" />
+      <recent name="D:\study\Hilel\FrontendPro\5-board-games-app\src\socials" />
+      <recent name="D:\study\Hilel\FrontendPro\5-board-games-app\src\header" />
+      <recent name="D:\study\Hilel\FrontendPro\5-board-games-app\src\header\form" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71656cb6-955f-4ad5-9639-2a11c9be3d68" name="Changes" comment="" />
+      <created>1683415344404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683415344404</updated>
+      <workItem from="1683415346474" duration="15724000" />
+      <workItem from="1683446819989" duration="9163000" />
+      <workItem from="1683737832911" duration="1496000" />
+      <workItem from="1683834824181" duration="10249000" />
+      <workItem from="1683908327825" duration="26364000" />
+      <workItem from="1684022414129" duration="11266000" />
+      <workItem from="1684052526404" duration="6126000" />
+      <workItem from="1684087620487" duration="4937000" />
+      <workItem from="1684697605412" duration="650000" />
+      <workItem from="1684763059371" duration="297000" />
+      <workItem from="1685280653335" duration="2419000" />
+      <workItem from="1685283103353" duration="279000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <created>1685283115730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685283115730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ready app" />
+    <MESSAGE value="App" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
+  </component>
+</project>

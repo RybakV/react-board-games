@@ -1,0 +1,27 @@
+.feedback {
+    padding: 80px 0;
+}
+.feedback--title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #f2890f;
+    margin-bottom: 8px;
+}
+.feedback--subtitle {
+    font-size: 64px;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 28px;
+}
+.feedback--item {
+    border-radius: 14px;
+    background-color: #fff3;
+    padding: 24px;
+    margin-bottom: 24px;
+    border: 1px solid #fff2;
+}
+.feedback--name {
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}

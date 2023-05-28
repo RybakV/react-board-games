@@ -1,0 +1,28 @@
+.socials {
+    position: fixed;
+    left: 22px;
+    bottom: 22px;
+}
+.socials--icon {
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.icon-instagram, .icon-youtube, .icon-twitter {
+    fill: #535353;
+    filter: drop-shadow(0 0 10px #53535300);
+    transition: .2s;
+    display: inline-block;
+}
+.icon-instagram:hover {
+    fill: #8A43FF;
+    filter: drop-shadow(0 0 10px #8A43FF);
+}
+.icon-youtube:hover {
+    fill: #FF3535;
+    filter: drop-shadow(0 0 10px #FF3535);
+}
+.icon-twitter:hover {
+    fill: #3A94E7;
+    filter: drop-shadow(0 0 10px #3A94E7);
+}

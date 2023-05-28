@@ -1,0 +1,42 @@
+.games--nav {
+    display: flex;
+    width: fit-content;
+    max-width: 100%;
+    background-color: rgba(217,217,217,.1);
+    border-radius: 40px;
+    box-shadow: inset 0 -4px 8px -4px rgba(255, 255, 255, 0.25), inset 0 4px 8px -4px rgba(255, 255, 255, 0.25);
+    margin-bottom: 50px;
+}
+.games--nav-btn {
+    padding: 10px 36px;
+    text-decoration: none;
+    color: #E6E6E6;
+    font-size: 14px;
+    font-weight: 700;
+    transition: .1s;
+    cursor: pointer;
+}
+.games--nav-btn+.games--nav-btn {
+    border-left: 1px solid rgba(217, 217, 217, 0.1);
+}
+.games--nav-btn:first-child {
+    padding-left: 42px;
+    border-radius: 40px 0 0 40px;
+}
+.games--nav-btn:last-child {
+    padding-right: 42px;
+    border-radius: 0 40px 40px 0;
+}
+.games--nav-btn.active {
+    color: #514321;
+    background-color: #FEC432;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), inset 0 0 5px #FFF6E0;
+    box-shadow: 0 2px 30px rgba(254, 196, 50, 0.5);
+}
+.games--nav-btn:hover {
+    color: #FEC432;
+    text-shadow: 0 0 10px #FEC432ff;
+}
+.games--nav-btn.active:hover {
+    color: #9f7716;
+}
