@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Board Games APP
+## Studying project (on React) 
+### [--> Live demo <--](https://board-games-app-build.vercel.app/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71656cb6-955f-4ad5-9639-2a11c9be3d68" name="Changes" comment="project">
-      <change afterPath="$PROJECT_DIR$/.idea/5-board-games-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="71656cb6-955f-4ad5-9639-2a11c9be3d68" name="Changes" comment="vmp project">
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.ps1" afterDir="false" />
@@ -452,73 +445,9 @@
       <change afterPath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.profiling.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/scheduler/unstable_mock.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/scheduler/unstable_post_task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/Game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/games/Game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/form/Form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/form/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/bg-home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-difficulty-yellow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-difficulty.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-duration-yellow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-duration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-person-yellow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-person.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icon-youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-contacts/Contacts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-contacts/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-contacts/map-marker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-error/Error.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-error/Error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-feedback/Feedback.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-feedback/Feedback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-home/nav-games/Nav-games.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-home/nav-games/Nav-games.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-newbie/Newbie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-newbie/Newbie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-sale/Sale.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-sale/Sale.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socials/Socials.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socials/Socials.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store-background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/stores-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/use-stores-hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -587,6 +516,7 @@
       <workItem from="1684763059371" duration="297000" />
       <workItem from="1685280653335" duration="2419000" />
       <workItem from="1685283103353" duration="279000" />
+      <workItem from="1685283395656" duration="3152000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1685283115730</created>
@@ -595,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685283115730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vmp project">
+      <created>1685283648565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685283648565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,6 +554,7 @@
     <MESSAGE value="App" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="project" />
-    <option name="LAST_COMMIT_MESSAGE" value="project" />
+    <MESSAGE value="vmp project" />
+    <option name="LAST_COMMIT_MESSAGE" value="vmp project" />
   </component>
 </project>
